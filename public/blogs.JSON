@@ -1,0 +1,22 @@
+[
+  {
+    "image": "./images/copilot.jpg",
+    "title": "Is github copilot a curse or blessing ?",
+    "desc": "GitHub Copilot is an artificial intelligence tool developed by GitHub and OpenAI to assist users of Visual Studio Code by autocompleting code.We the developers think,it's not a curse, it helps programmers to work faster and effectively."
+  },
+  {
+    "image": "./images/python.jfif",
+    "title": "Why python is growing faster?",
+    "desc": "It grows faster bcz python contributes in ai,machine learning, data science and many other complex things in modern world right now."
+  },
+  {
+    "image": "./images/cs.jpg",
+    "title": "Why choose computer science?",
+    "desc": "Now the world is going towards technology.To cope up with the modern world,computer science is more popular day by day."
+  },
+  {
+    "image": "./images/camera.jpg",
+    "title": "Why photography is most demanding ?",
+    "desc": "Photography is one of the most demanding sector in the world.Wild life photography,weeding photography these are very liking things in peoples."
+  }
+]

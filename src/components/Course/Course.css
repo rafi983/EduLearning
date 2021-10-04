@@ -1,0 +1,12 @@
+.course-img {
+  height: 300px;
+}
+::-webkit-scrollbar {
+  display: none;
+}
+.price {
+  font-weight: bold;
+}
+.card-content {
+  overflow-y: hidden !important;
+}

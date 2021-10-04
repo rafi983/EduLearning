@@ -1,0 +1,93 @@
+[
+  {
+    "image": "./images/graphic.jpg",
+    "title": "Graphic Design",
+    "desc": "Graphic design is the profession and academic discipline.We have experts in graphic designing. Here u will get best and efficient learning guideline of graphics designing.",
+    "price": 300
+  },
+  {
+    "image": "./images/photography.jpg",
+    "title": "photography",
+    "desc": "Photography is the art, application, and practice of creating durable images.We are trying best to give best outputs to those learners who are serious to learn that art.",
+    "price": 450
+  },
+  {
+    "image": "./images/data-science.jpeg",
+    "title": "Data Science Engineering",
+    "desc": "Data science is an interdisciplinary field that uses scientific methods, processes and algorithms.",
+    "price": 1150
+  },
+  {
+    "image": "./images/fashion.jpg",
+    "title": "Fashion Design",
+    "desc": "One of the platform which we like to serve our students.",
+    "price": 760
+  },
+  {
+    "image": "./images/computer-engineering.jpg",
+    "title": "Computer Engineering",
+    "desc": "Computer Science is very frightening to most of the beginner. So Our motive is to give a primary idea and clear concepts of computer science to those students who are really seeking to learn.",
+    "price": 2000
+  },
+
+  {
+    "image": "./images/deep-learning.jpg",
+    "title": "Deep learning",
+    "desc": "Deep learning is part of a broader family of machine learning methods based on artificial neural networks with representation learning",
+    "price": 1250
+  },
+  {
+    "image": "./images/ethical-hacking.jpg",
+    "title": "Ethical Hacking",
+    "desc": "Certified Ethical Hacker is a qualification obtained by demonstrating knowledge of assessing the security of computer systems ",
+    "price": 2200
+  },
+  {
+    "image": "./images/ai.png",
+    "title": "Artificial Intelligence",
+    "desc": "Artificial intelligence is intelligence demonstrated by machines, as opposed to the natural intelligence displayed by humans or animals",
+    "price": 3500
+  },
+  {
+    "image": "./images/cyber.jpg",
+    "title": "Cyber security",
+    "desc": "Computer security, cybersecurity or information technology security is the protection of computer systems and networks from information disclosure",
+    "price": 1100
+  },
+  {
+    "image": "./images/robotics.jpg",
+    "title": "Robotic science",
+    "desc": "Robotics is an interdisciplinary field that integrates computer science and engineering. Robotics involves design, construction, operation, and use of robots.",
+    "price": 970
+  },
+  {
+    "image": "./images/pharma.jpg",
+    "title": "Pharmaceutical Engineering",
+    "desc": "Pharmaceutical engineering is a branch of engineering focused on discovering, formulating, and manufacturing medication",
+    "price": 550
+  },
+  {
+    "image": "./images/fullstack.jpg",
+    "title": "Full stack web development",
+    "desc": "A full stack web developer is a person who can develop both client and server software.",
+    "price": 1300
+  },
+  {
+    "image": "./images/machine-learning.jpg",
+    "title": "Machine Learning",
+    "desc": "Machine learning is the study of computer algorithms that can improve automatically through experience and by the use of data.",
+    "price": 3000
+  },
+  {
+    "image": "./images/digital-marketing.jpg",
+    "title": "Digital Marketing",
+    "desc": "Digital marketing is the component of marketing that utilizes internet and online based digital technologies",
+    "price": 1890
+  },
+  {
+    "image": "./images/economics.png",
+    "title": "Economics",
+    "desc": "Economics is the social science that studies how people interact with value; in particular, the production, distribution, and consumption of goods and services.",
+    "price": 2600
+  }
+]
