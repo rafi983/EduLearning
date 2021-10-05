@@ -1,22 +1,9 @@
 .btn-regular {
   margin-left: 45%;
 }
-.header-container {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url("../../imgs/bg-img.jpg");
-  height: 90vh;
-  background-size: cover;
-  background-repeat: no-repeat;
-  position: relative;
-  margin-bottom: 2rem;
+.biggest {
+  color: orange;
 }
-
-.header-title {
-  display: flex;
-  justify-content: center;
-  margin-top: 17rem;
-  color: limegreen;
-  font-size: 4rem;
-  font-weight: 900;
-  text-transform: uppercase;
+.edu-icon {
+  font-size: 3rem;
 }
